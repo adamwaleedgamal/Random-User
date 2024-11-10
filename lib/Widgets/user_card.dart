@@ -4,7 +4,7 @@ import '../screens/user_detail_screen.dart';
 
 class UserCard extends StatelessWidget {
   final UserModel user;
-
+//adam
   UserCard({required this.user});
 
   @override
